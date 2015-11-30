@@ -1,0 +1,23 @@
+{
+  "name": "sitebuilder",
+  "version": "1.0.0",
+  "description": "framework for quick website generation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdandrade/sitebuilder.git"
+  },
+  "author": "vitor andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdandrade/sitebuilder/issues"
+  },
+  "homepage": "https://github.com/vdandrade/sitebuilder#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "materialize": "^1.0.0"
+  }
+}

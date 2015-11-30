@@ -1,0 +1,23 @@
+﻿Barra de menus emcima / lateral para mobile
+Parallax
+Lista de ítens, 3 ou customizada
+Rodapé
+Mostrar Twitter
+Código de Facebook de caras de amigos
+Analytics do google
+Botões de curtir, twitter, intagram, etc...
+Carroussel de promoções
+Galeria de fotos
+Quadriculado de tela tipo windows 8
+Formulário de contato
+iFrame customizado
+google maps
+Janela de vídeo
+Link de Skype
+Link de fotos P&B, com cor quando passa por cima
+Adicionar background de imagem ou de video tipo chefsclub
+
+
+PARA ESTUDAR:
+Twitter: meta tags
+
